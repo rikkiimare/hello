@@ -1,1 +1,1 @@
-# hello# hello
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/rikkiimare/hello/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/rikkiimare/hello/tree/main)
